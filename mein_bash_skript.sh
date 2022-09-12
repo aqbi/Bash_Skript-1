@@ -1,0 +1,3 @@
+#skript
+
+echo "Hello World"

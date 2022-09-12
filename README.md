@@ -1,2 +1,4 @@
 # Mein erstes Git Repositorium
-2022-09-12
+
+- *Autorin*: **Rabea Müller**
+- 2022-09-12
